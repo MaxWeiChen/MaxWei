@@ -337,6 +337,7 @@
   text-transform: none;
   letter-spacing: normal;
   margin-top: 2rem;
+  margin-left: 1rem;
   margin-bottom: 0.5rem;
   color: #eee;
   display: block;
@@ -1102,14 +1103,6 @@ article .content blockquote {
 }
 article .content blockquote p {
   margin: 0;
-}
-article .content blockquote:before {
-  color: #ccffb6;
-  content: "\201C";
-  font-size: 2em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
 }
 article .content blockquote footer {
   color: #666;
