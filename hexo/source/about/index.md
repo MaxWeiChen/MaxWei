@@ -6,7 +6,9 @@ Hello World, I am MaxWei
 ![](/me.png)
 出生於1983年，男性  
 一個放不下平凡的生活卻想過不平凡生活的平凡遊戲工程師
-> 也許..有一天我也可以改變世界吧 呵
+{% blockquote Mike Wazowski, Monster University %}
+Don't let anyone tell you different
+{% endblockquote %}
 
 # 經歷
 ## [SIGONO][sigonoLink] `Feb 2015 - now`
@@ -24,7 +26,7 @@ Hello World, I am MaxWei
     * 負責項目：後期追加功能，追加UI支援
     
 ## 獨立開發 `Sep 2013 - Aug 2014`
-* MetralStrike (未上市)
+* {% post_link MetalxStrike MetalxStrike %}
 	* 開發工具：Unity
     * 負責項目：全部
     
@@ -44,11 +46,9 @@ Hello World, I am MaxWei
 
 # 學歷
 ## 世新大學-資管系 `Sep 2002 - Jun 2006`
-* 畢業專題：SETO
+* {% post_link SETO SETO %}
 	* 開發工具：Virtools 虛擬實境引擎
     * 負責項目：程式，企劃，小量美術
-    * 管理責任：7人團隊 MAXJET 組長
-    * 獲得獎項：2005年4C數位創作競賽遊戲創作PC組 最佳創作團隊、最佳音效獎
     
 # 技能
 ## Programming
