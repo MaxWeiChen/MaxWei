@@ -16,7 +16,7 @@ date: 2017-09-14 10:43:00
 * 開發工具：Unity
 * 負責項目：遊戲邏輯，UI串接，地圖編輯器，Switch平台操作企劃及程式
 * 開發時間：2016/05 ~ 2017/09
-* 發行平台：IOS <i class="fa fa-apple"></i>, Android <i class="fa fa-google"></i>, Steam <i class="fa fa-steam"></i>, Switch
+* 發行平台：<i class="fab fa-app-store-ios"></i> IOS, <i class="fab fa-google-play"></i> Android, <i class="fab fa-steam"></i> Steam, <i class="fab fa-nintendo-switch"></i> Switch
 * 相關連結：[SIGONO遊戲官網][opusRLink], [Wiki][wikiLink]
 
 ## Diary

@@ -52,12 +52,15 @@ Don't let anyone tell you different
     
 # 技能
 ## Programming
-* c#
-* c, c++
+* C#
+* C, C++
 
 ## Other
 * Unity
 * Git
 
+## Platform
+<i class="fab fa-app-store-ios"></i> IOS, <i class="fab fa-google-play"></i> Android, <i class="fab fa-steam"></i> Steam, <i class="fab fa-app-store"></i> MacOS, <i class="fab fa-nintendo-switch"></i> Switch
+
+
 [sigonoLink]: http://www.sigono.com/
-[opusRLink]:

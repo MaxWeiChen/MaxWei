@@ -15,9 +15,8 @@ date: 2015-10-22 15:08:00
 * 開發工具：Unity
 * 負責項目：遊戲首次上架前90%以上程式
 * 開發時間：2015/03 ~ 2015/10
-* 發行平台：IOS, Android, Steam, MacOS, Switch
+* 發行平台：<i class="fab fa-app-store-ios"></i> IOS, <i class="fab fa-google-play"></i> Android, <i class="fab fa-steam"></i> Steam, <i class="fab fa-app-store"></i> MacOS, <i class="fab fa-nintendo-switch"></i> Switch
 * 相關連結：[SIGONO遊戲官網][opusTLink], [Wiki][wikiLink]
-
 
 ## Diary
 OPUS:The Day We Found Earth「地球計劃」是我加入SIGONO第一個作品，當時加入團隊時全公司加上我也只有四個人，製作人，企劃，程式，美術各一名，由於我加入時上一位程式剛被資遣，而美術是第一次製作遊戲，所以整個團隊算是完全沒有任何合作製程的情況下開始，團隊大約經過2個月的作練習後開始「地球計劃」的研發，開發約半年左右而己，很快的於2015年10月22日正式上架，第一天次問世的版本是v0.9.8，由於在這之前都只有我一位程式，所以90%以上的程式都是由我一人完成的，在「地球計劃」上線幾個月後才進了第二位程式開始支援Social部份
