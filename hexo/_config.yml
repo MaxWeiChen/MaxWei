@@ -80,3 +80,6 @@ deploy:
   type: git
   repository: https://MaxWeiChen@github.com/MaxWeiChen/MaxWeiChen.github.io.git
   branch: master
+
+admin:
+  deployCommand: './hexo-deploy.sh'
