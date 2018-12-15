@@ -3,15 +3,15 @@ catagory: about
 date: 2018-01-28 10:42:09
 ---
 Hello World, I am MaxWei
-![](/me.png)
-出生於1983年，男性  
-一個放不下平凡的生活卻想過不平凡生活的平凡遊戲工程師
+![](/Zombie.png)
+工程屍獨立遊戲開發者
+
 {% blockquote Mike Wazowski, Monster University %}
 Don't let anyone tell you different
 {% endblockquote %}
 
 # 經歷
-## [SIGONO][sigonoLink] `Feb 2015 - now`
+## [SIGONO][sigonoLink] `Feb 2015 - Apr 2018`
 * {% post_link OPUS：Rocket-Of-Whispers OPUS：靈魂之橋 Rocket of Whispers %}
 	* 開發工具：Unity
     * 負責項目：遊戲邏輯，UI串接，地圖編輯器，Switch平台操作企劃及程式  
