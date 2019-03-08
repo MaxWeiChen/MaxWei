@@ -2,6 +2,10 @@ title: about
 catagory: about
 date: 2018-01-28 10:42:09
 ---
+<!--連結管理-->
+[sigonoLink]: http://www.sigono.com/
+[PINIXWebLink]: http://www.pinixgames.com
+<!--本文-->
 Hello World, I am MaxWei
 ![](/Zombie.png)
 工程屍獨立遊戲開發者
@@ -11,6 +15,11 @@ Don't let anyone tell you different
 {% endblockquote %}
 
 # 經歷
+## [PINIX][PINIXWebLink] `May 2018 - Now`  
+* {% post_link WannaSuvive %}  
+	* 開發工具：Unity
+	* 負責項目：全部
+
 ## [SIGONO][sigonoLink] `Feb 2015 - Apr 2018`
 * {% post_link OPUS：Rocket-Of-Whispers OPUS：靈魂之橋 Rocket of Whispers %}
 	* 開發工具：Unity
@@ -61,6 +70,3 @@ Don't let anyone tell you different
 
 ## Platform
 <i class="fab fa-app-store-ios"></i> IOS, <i class="fab fa-google-play"></i> Android, <i class="fab fa-steam"></i> Steam, <i class="fab fa-app-store"></i> MacOS, <i class="fab fa-nintendo-switch"></i> Switch
-
-
-[sigonoLink]: http://www.sigono.com/
