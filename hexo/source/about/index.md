@@ -15,7 +15,7 @@ Don't let anyone tell you different
 {% endblockquote %}
 
 # 經歷
-## [PINIX][PINIXWebLink] `May 2018 - Now`  
+## [PINIX][PINIXWebLink] `May 2018 - Aug 2019`  
 * {% post_link WannaSuvive %}  
 	* 開發工具：Unity
 	* 負責項目：全部
