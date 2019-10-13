@@ -16,7 +16,7 @@ Don't let anyone tell you different
 
 # 經歷
 ## [PINIX][PINIXWebLink] `May 2018 - Aug 2019`  
-* {% post_link WannaSuvive %}  
+* {% post_link WannaSurvive %}  
 	* 開發工具：Unity
 	* 負責項目：全部
 

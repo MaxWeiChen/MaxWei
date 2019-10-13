@@ -1,4 +1,4 @@
-title: WannaSuvive
+title: WannaSurvive
 author: MaxWei Chen
 date: 2019-08-14 13:58:05
 tags:
